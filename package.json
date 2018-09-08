@@ -1,0 +1,23 @@
+{
+  "name": "next-bulletin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "export": "next export",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^6.1.1",
+    "prismic-javascript": "^1.5.0",
+    "prismic-react": "0.0.2",
+    "prismic-reactjs": "^0.3.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
