@@ -1,4 +1,4 @@
-# bulletin
+# Bulletin
 
 A NextJs SPA that utilizes Prismic.io CDN
 
@@ -8,12 +8,19 @@ This project contains the code for the same.
 
 ## How to run
 
-- clone the repository
-- run below commands,
+- Clone the repository,
+  ```
+  git clone https://github.com/drex44/bulletin.git
+  ```
+- Run below commands,
   ```
   cd bulletin
   npm install
   npm run dev
   ```
+### Article
 
 The link to the article is [here](https://medium.com/@dhanraj_acharya/host-your-dynamic-website-without-spending-a-penny-d1ba91501a62).
+
+### Live demo 
+It's available on [Surge.sh](http://bulletin-tutorial.surge.sh/)
