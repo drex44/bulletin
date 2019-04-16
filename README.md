@@ -1,5 +1,7 @@
 # Bulletin
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/drex44/bulletin.svg)](https://greenkeeper.io/)
+
 A NextJs SPA that utilizes Prismic.io CDN
 
 I have wrote a tutorial on how to use [surge](http://surge.sh) and CDN such as [Prismic.io](http://prismic.io/).
